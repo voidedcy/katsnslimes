@@ -28,3 +28,7 @@ Engine: Construct 3
 
 <!-- coisas como: semana que vem fazer mais sprites, dia tal adicionar tal mecanica, etc -->
 
+1. 14/03
+  - Principal
+    Ajustar as idéias e como o jogo será feito, sendo isso, katsnslimes irá ser um jogo em grid, linear e com cutscenes.
+     
