@@ -1,4 +1,4 @@
-# Cats n Slimes #
+# Cats vs Slimes #
 
 ## GDD #
 
